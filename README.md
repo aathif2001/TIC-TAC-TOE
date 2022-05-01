@@ -2,5 +2,6 @@
 Basic Python Game Tic Tac Toe
 
 # Things got to know
-while loops
+while loops,
 for loops
+functions
